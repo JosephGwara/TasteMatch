@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63158951291",
+    "project_id": "taste-match",
+    "storage_bucket": "taste-match.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63158951291:android:b6e17d2bbaa39aefe0b1de",
+        "android_client_info": {
+          "package_name": "com.example.tastematch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63158951291-7j9g3n6e5jaa4u853oe27m4olk8h9but.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNblMkKVZn2vI6jBvj4pPXiLY64VXQhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63158951291-7j9g3n6e5jaa4u853oe27m4olk8h9but.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
